@@ -4,3 +4,9 @@ C:\Users\YuriF\Desktop\DarrenDMiniProjectLoop\DarrenDMiniProjectLoop\bin\Debug\D
 C:\Users\YuriF\Desktop\DarrenDMiniProjectLoop\DarrenDMiniProjectLoop\obj\Debug\DarrenDMiniProjectLoop.csprojResolveAssemblyReference.cache
 C:\Users\YuriF\Desktop\DarrenDMiniProjectLoop\DarrenDMiniProjectLoop\obj\Debug\DarrenDMiniProjectLoop.exe
 C:\Users\YuriF\Desktop\DarrenDMiniProjectLoop\DarrenDMiniProjectLoop\obj\Debug\DarrenDMiniProjectLoop.pdb
+C:\Users\YuriF\Desktop\miniprojects\DarrenDMiniProjectLoop\DarrenDMiniProjectLoop\bin\Debug\DarrenDMiniProjectLoop.exe.config
+C:\Users\YuriF\Desktop\miniprojects\DarrenDMiniProjectLoop\DarrenDMiniProjectLoop\obj\Debug\DarrenDMiniProjectLoop.exe
+C:\Users\YuriF\Desktop\miniprojects\DarrenDMiniProjectLoop\DarrenDMiniProjectLoop\obj\Debug\DarrenDMiniProjectLoop.pdb
+C:\Users\YuriF\Desktop\miniprojects\DarrenDMiniProjectLoop\DarrenDMiniProjectLoop\obj\Debug\DarrenDMiniProjectLoop.csprojResolveAssemblyReference.cache
+C:\Users\YuriF\Desktop\miniprojects\DarrenDMiniProjectLoop\DarrenDMiniProjectLoop\bin\Debug\DarrenDMiniProjectLoop.exe
+C:\Users\YuriF\Desktop\miniprojects\DarrenDMiniProjectLoop\DarrenDMiniProjectLoop\bin\Debug\DarrenDMiniProjectLoop.pdb
